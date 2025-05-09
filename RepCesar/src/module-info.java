@@ -1,10 +1,8 @@
 /**
- * 
- */
-/**
- * 
+ * Módulo del proyecto RepCesar.
+ * @author Cesar
+ * @version 1.0
  */
 module RepCesar {
-	requires junit;
-	requires org.junit.jupiter.api;
+	
 }
